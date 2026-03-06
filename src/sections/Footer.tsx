@@ -273,7 +273,7 @@ const Footer = () => {
       </div>
 
       {/* Credit */}
-      <div className="border-t border-gray-border bg-black">
+      <div className="relative z-10 border-t border-gray-border bg-black">
         <div className="mx-auto w-full max-w-[1600px] px-4 py-4 sm:px-6 lg:px-8 xl:px-12">
           <p className="text-center text-xs text-gray-text">
             build by{' '}
